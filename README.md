@@ -55,4 +55,12 @@ It does **not** represent any real Google service and must **not** be used for:
 Any misuse of this project is **not the responsibility of the author**.
 
 ---
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=34A853&center=true&vCenter=true&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Pravin;Frontend+UI+Learner;Educational+Projects+Only" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:34A853&height=2&section=footer" />
+</p>
